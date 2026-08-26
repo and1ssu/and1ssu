@@ -1,6 +1,6 @@
 ###  Oi eu sou Andersson!👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como desenvolvedor FullStack
 - 🌱 Estudando Angular 9
 - 💬 Meu Email: andersson.brito@gmail.com
 - 😄 Pronouns: ele/dele
